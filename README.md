@@ -4,8 +4,8 @@
  Projeto desenvolvido na disciplina de métodos numéricos, curso de engenharia da computação (IFPB - Campina Grande), sobre analise de imagens biomédicas com foco em tomografia computadorizada de pulmões.
 
 ## Prerequisitos
-    * Python 3.6 + (a utilização do anaconda python é recomendado)
-    * Pip 3 +
+  * Python 3.6 + (a utilização do anaconda python é recomendado)
+  * Pip 3 +
 
 ## Requisitos
  ```bash
@@ -13,19 +13,27 @@
  ```
 
 ---
+<br/>
 
 ## Resultados
-    * [Volume do pulmão](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/lung_volumes.csv)
-    * [Volume dos vasos](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/vessel_volumes.csv)
+
+  * [Volume do pulmão](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/lung_volumes.csv)
+  * [Volume dos vasos](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/vessel_volumes.csv)
+
+<br/>
 
 ---
 
-Imagem base para a analise
+<br/>
+
+<b> Imagem base para a analise </b>
+
 <div>
-    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Figures/slice020.png" width="650" height="400">
+    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Figures/slice020.png" width="550" height="300">
 </div>
 
-Resultado
+<b> Resultado </b>
+
 <div>
-    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Vessel_overlayed/slice020_vessels.png" width="650" height="400">
+    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Vessel_overlayed/slice020_vessels.png" width="550" height="300">
 </div>
