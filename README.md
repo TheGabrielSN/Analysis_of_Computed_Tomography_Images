@@ -13,14 +13,12 @@
  ```
 
 ---
-<br/>
 
 ## Resultados
 
   * [Volume do pulmão](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/lung_volumes.csv)
   * [Volume dos vasos](https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/vessel_volumes.csv)
 
-<br/>
 
 ---
 
@@ -31,6 +29,8 @@
 <div>
     <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Figures/slice020.png" width="550" height="300">
 </div>
+
+<br/>
 
 <b> Resultado </b>
 
