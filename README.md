@@ -1,2 +1,14 @@
-# Analysis_of_Computed_Tomography_Images
- Análise de Imagens de Tomografia Computadorizada de Pulmões
+# Análise em Imagens Biomédicas e em Tomografia Computadorizada de Pulmões
+
+### Engenharia de Computação - IFPB Campina Grande
+ Projeto desenvolvido na disciplina de métodos numéricos do curso de engenharia da computação do IFPB campus Campina Grande sobre analise de imagens biomédicas com foco em tomografia computadorizada de pulmões.
+
+## Prerequisitos
+    * Python 3.6 + (a utilização do anaconda python é recomendado)
+    * Pip 3 +
+
+## Requisitos
+ ```bash
+ $ pip install requirements.txt
+ ```
+
