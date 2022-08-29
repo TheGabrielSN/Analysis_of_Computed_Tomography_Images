@@ -12,3 +12,20 @@
  $ pip install requirements.txt
  ```
 
+---
+
+## Resultados
+    * Volume do pulmão(https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/lung_volumes.csv)
+    * Volume dos vasos(https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/CSV/vessel_volumes.csv)
+
+---
+
+Imagem base para a analise
+<div>
+    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Figures/slice020.png" width="650" height="400">
+</div>
+
+Resultado
+<div>
+    <img src="https://github.com/TheGabrielSN/Analysis_of_Computed_Tomography_Images/blob/main/Vessel_overlayed/slice020_vessels.png" width="650" height="400">
+</div>
